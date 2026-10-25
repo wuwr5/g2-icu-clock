@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/parsed/*
+!data/parsed/.gitkeep
+*.parquet
+.env
+.DS_Store
